@@ -1,4 +1,4 @@
-#Stealing this Straight Up Gangster Theme!
+# Stealing this Straight Up Gangster Theme!
 
 https://april6804.github.io/Stealing/dist/
 
